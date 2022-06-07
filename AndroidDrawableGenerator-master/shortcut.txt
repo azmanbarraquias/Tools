@@ -1,0 +1,47 @@
+alt + ctr + L 		- format code
+shift + f10 		- run app
+alt + j 		- multi line edit
+shift + f 		- rename all variable same name
+alt + shift + click 	- multi line selected edit
+
+Navigation
+ctrl + n 		- search lass name
+className:line ex. 123  - jump line by no
+ctrl + g 		- jump line (L,C)
+ctrl + shift + N	- search file name
+shift 2x		- search everwhere
+ctrl + e		- open recent file
+alt <- ->		- switch tab
+alt ^ v			- jump between method declaration and containing class name
+alt + f7		- find usages
+ctrl + alt + f7		- popup show usage
+ctrl + b		- jump to declaration, variable, method or class.
+ctrl + h		- class hierachy
+
+
+Auto generate
+alt + ins		- generate constructor
+
+cliboard
+ctrl + shift + v	- show copyclipboard history
+
+ctrl + alt + o 		- delete unused code
+ctrl + /		- commend uncommend
+ctrl + shift + / 	- commend multiline
+
+bookmark
+f11			- add and delete bookmark 
+shift + f11		- show bookmark
+ctrl + number		- add mhenomic bookmark
+ctrl + number		- go to mhenomic bookmark
+
+
+
+
+
+
+
+
+
+
+
